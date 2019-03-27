@@ -1,4 +1,4 @@
-# Gtuner-Execute-Script-via-Python
+# Execute Gtuner scripts via Python
 Allows you to use python to execute a Gtuner script
 
 Requires Python and the dependencies used.
